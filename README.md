@@ -6,3 +6,7 @@ Repositório destinado as aulas do curso
 ## Funcionalidades:
 
 Checkout, tela de produto, catalogo, home com banner
+
+###### Melhorias do projeto:
+
+Melhoria 1, Melhoria 2
