@@ -43,3 +43,5 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+Contribuidor: https://www.github.com/alehuller
