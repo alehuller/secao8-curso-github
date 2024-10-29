@@ -7,7 +7,7 @@ Repositório destinado as *aulas* do **curso**
 
 _Checkout, **tela de produto**, catalogo, home com banner_
 
-**_Checkout, _tela de produto_, catalogo, home com banner_**
+**Checkout, _tela de produto_, catalogo, home com banner**
 
 ###### Melhorias do projeto:
 
