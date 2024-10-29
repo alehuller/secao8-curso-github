@@ -1,4 +1,8 @@
-# secao8-curso-github
-Repositório destinado a secao 8 do curso de Git e GitHub.
+# Secao 8 do curso de Git e Github
 
-# Teste
+Repositório destinado as aulas do curso
+
+## Teste Markdown
+## Funcionalidades:
+
+Checkout, tela de produto, catalogo, home com banner
