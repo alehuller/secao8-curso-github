@@ -45,3 +45,5 @@ __Melhoria 1__, _Melhoria 2_
 [https://www.google.com](https://www.google.com)
 
 Contribuidor: https://www.github.com/alehuller
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/alehuller)
