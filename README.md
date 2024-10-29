@@ -1,6 +1,6 @@
 # Secao 8 do curso de Git e Github
 
-Repositório destinado as aulas do curso
+Repositório destinado as *aulas* do **curso**
 
 ## Teste Markdown
 ## Funcionalidades:
